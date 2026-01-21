@@ -10,7 +10,8 @@ Hace que tu dispositivo se sienta más fluido y responsive
 Modifica el devicelevellist.xml para que tu teléfono sea identificado como gama media-alta.
 Ofrece una experiencia fluida con la mayoría de los efectos visuales habilitados.
 
-🔧 Funcionalidad
+
+🔧 Funcionalidad:
 
 ⚡️ Cambia valores de animación del sistema
 
