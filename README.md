@@ -1,6 +1,6 @@
-🚀 Módulo KernelSU - Balanced Mid-Range
+## 🚀 Módulo KernelSU - Balanced Mid-Range
 
-✨ Características
+### ✨ Características:
 
 🎯 Optimización de animaciones del sistema
 Ajusta automáticamente los valores de las animaciones de Android
@@ -11,7 +11,7 @@ Modifica el devicelevellist.xml para que tu teléfono sea identificado como gama
 Ofrece una experiencia fluida con la mayoría de los efectos visuales habilitados.
 
 
-🔧 Funcionalidad:
+### 🔧 Funcionalidad:
 
 ⚡️ Cambia valores de animación del sistema
 
