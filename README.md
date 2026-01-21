@@ -1,13 +1,12 @@
-## 🚀 Módulo KernelSU - Balanced Mid-Range
+## 🚀 Módulo KernelSU - FlasgShip
 
 ### ✨ Características:
 
 🎯 Optimización de animaciones del sistema
-Ajusta automáticamente los valores de las animaciones de Android
-Hace que tu dispositivo se sienta más fluido y responsive
+Ajusta automáticamente los valores de las animaciones de Android para tener las mejores animaciones y no perder rendimiento.
 
 📱 Device Level Spoofing
-Modifica el devicelevellist.xml para que tu teléfono sea identificado como gama media-alta.
+Modifica el devicelevellist.xml para que tu teléfono sea identificado como gama media y gama alta
 Ofrece una experiencia fluida con la mayoría de los efectos visuales habilitados.
 
 
